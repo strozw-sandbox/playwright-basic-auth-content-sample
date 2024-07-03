@@ -11,7 +11,7 @@
 
 ### Basic 認証をされた対象のコンテンツのテストコードを生成する
 
-#### A: `playwright codegen` のテスト対象 URL を Basic 認証対応のURLを渡す
+#### A: `playwright codegen` のテスト対象に Basic 認証対応のURLを渡す
 
 以下の様に、テスト対象の URL で Basic 認証の username と password を渡す
 
